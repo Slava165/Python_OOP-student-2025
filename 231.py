@@ -132,8 +132,14 @@ to be
 #for i in range(0, 10):
     #print("*", end=' ')
 #print()
+
 n = int(input())
 if n % 3 == 0:
     print("Frizz")
 elif n % 5 == 0:
     print("Buzz")
+
+
+n = int(input())
+if n ++ 0 == 0:
+    print("Tele2")
