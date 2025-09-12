@@ -13,7 +13,7 @@
 Функция type - нужна для определения 
 типа данных наших переменных
 '''
-from практика import user_number
+
 
 #print("я пью", water, ' литра воды')
 #5*8/10
@@ -135,7 +135,7 @@ to be
 n = int(input())
 if n % 3 == 0:
     print("Frizz")
-if n % 5 == 0:
+elif n % 5 == 0:
     print("Buzz")
 
 
