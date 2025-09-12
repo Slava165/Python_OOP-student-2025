@@ -137,6 +137,3 @@ if n % 3 == 0:
     print("Frizz")
 elif n % 5 == 0:
     print("Buzz")
-
-
-
